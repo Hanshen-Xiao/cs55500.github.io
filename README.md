@@ -29,7 +29,7 @@ We will use Piazza for class communication.
 
 ## Assignments
 
-Grading will be based on 4 problem sets (40%), midterm exam (30 %), and final presentation (30%). 
+Grading will be based on 4 problem sets (40%), midterm exam (25%), class participation (5%) and final project (30%). For the final project, you are expected to work in pairs, collaborating with a classmate to: (1) identify a specific, well-defined application area of cryptography; (2) read and critically discuss relevant literature; and (3) prepare a 20-minute presentation followed by a 5-minute Q&A session.
 
 Submitting psets:
 You should typeset your pset answers in LaTeX.
