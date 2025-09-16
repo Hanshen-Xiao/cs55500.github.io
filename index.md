@@ -41,7 +41,7 @@ This course's content is adapted from mit6875.org
 
 ## Assignments
 
-Grading will be based on the problem sets, midterm exam, and class participation. There will be 6 problem sets and your top 5 scores will count towards your grade. You have a total of 10 late days to use across the 6 psets (max of 5 late days for any single pset). You can use these late days however you like; we will use the timestamp of your Gradescope submission to calculate the number of late days.
+Grading will be based on the problem sets, midterm exam, and class participation. There will be 4 problem sets. You have a total of 8 late days to use across the 4 psets. You can use these late days however you like; we will use the timestamp of your Gradescope submission to calculate the number of late days.
 
 Submitting psets:
 You should typeset your pset answers in LaTeX.
