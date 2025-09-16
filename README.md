@@ -18,7 +18,7 @@ West Lafayette Campus, Max W & Maileen Brown Hall Room 236
 
 ## Office Hours
 
-Hanshen Xiao, Tuesday, 10:30 - 11:30 AM, Lawson 2142E
+Hanshen Xiao, Tuesday, 10:30 - 11:30 AM and 5-5:30 PM Lawson 2142E
 
 Justin He, TBD
 
